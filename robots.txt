@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northlittlerockplumbingco.com/sitemap.xml
